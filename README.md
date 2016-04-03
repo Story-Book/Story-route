@@ -1,0 +1,2 @@
+# Story-route
+Story route.
